@@ -20,7 +20,8 @@ public abstract class Action {
     public String getNom() {
         return nom;
     }
-
+    
+    
     public Action(String nom) {
         this.nom = nom;
     }
